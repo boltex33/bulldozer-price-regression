@@ -3,8 +3,8 @@ This notebook looks into using various Python-based machine learning and data sc
 
 We're going to take the following approach:
 
-Problem definition
-Data
-Evaluation
-Features
-Modelling
+1. Problem definition
+2. Data
+3. Evaluation
+4. Features
+5. Modelling
